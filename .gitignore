@@ -33,3 +33,4 @@ lcov.info
 # Docker volumes and debug logs
 .postgres
 logfile
+MIGRATION_PLAN.md
